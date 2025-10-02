@@ -1,7 +1,8 @@
 # plant-pest-detection
 
 Project Overview
-* This project aims to detect and identify plant pests using images of plants. The system leverages image processing and YOLO (You Only Look Once) for pest detection. The output provides the location and type of * insects on the plant. This project can assist farmers and plant health experts in timely pest control and reducing crop damage.
+* This project aims to detect and identify plant pests using images of plants. The system leverages image processing and YOLO (You Only Look Once) for pest detection. The output provides the location and type of
+* insects on the plant. This project can assist farmers and plant health experts in timely pest control and reducing crop damage.
 
 Features
 * Accurate detection of plant pests in color images.
